@@ -1,0 +1,100 @@
+# 1) 
+# word = input("Soz jaz: ")
+# print(word.upper()) 
+
+
+# input() Rassia
+# Print() RASSIA
+
+
+# 2)
+# word = input("Soz jaz: ")
+# print(word.lower())
+
+# input() Rassia
+# Print() rassia
+
+
+# 3)
+# word = input("Soz jaz: ")
+# print(word.capitalize())
+
+# input() Rassia
+# Print()  Rassia
+
+
+# 4)
+# word = input("Soz jaz: ")
+# persons = word.split(',')
+
+# print(persons)
+# print(f" {len(persons)} adam bar")
+
+# input() Talgat,Bilal,Bektur,Aigerim
+# Print() [‘Talgat’, ‘Bilal’, ‘Bektur’, ‘Aigerim’]
+# Print() ‘4 адам бар’
+
+
+# num = int(input("number: ")) 
+
+# if num % 2 == 0:
+#     print("JUP")
+# else:
+#     print("TAK")
+
+
+# /naik = input('Soz jaz: ')
+
+# if naik == naik[::-1]:
+#     print('Polindrom')
+# else:
+#     print("Polindrom emes")
+
+
+
+# nums = input("5 San jaz: ").split(',')
+# nums.reverse()
+# print(nums
+
+
+
+# words = input('sozdordy jaz: ').split('')
+# print(len(words[-1]))
+
+
+# num = input("soz jaz: ")
+# persons = word.split(',')
+
+# print(persons)
+
+
+
+# fruits = ['apple', 'cherry', 'banana']
+
+# name = input("soz jaz: ")
+
+# if name in fruits:
+#     print(' Bar')
+# else:
+#     print("Jok")
+
+
+
+# nums = set(input("san jaz").split(','))
+
+# print(nums)
+
+
+
+# customer = {'name': "A"last": "Kurbanov", "country": 'KG', 'age': 33}
+#  k = input("Ключ жаз: ")
+
+# if k in customer.keys():
+#     print(customer[k])
+# else:
+#     print("Андай ключ жок")
+# zamat", 
+
+
+customer = {"name": "Marsel", 'age': "18", "city" : "Bishkek"}
+print(customer["age"])
